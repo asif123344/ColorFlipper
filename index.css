@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #f2f2f2;
+}
+.red{
+    background-color: Red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+button{
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+#btn{
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 18px;
+    font-size: 20px;
+    border-radius: 8px;
+    
+    cursor: none;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 200px;
+}
